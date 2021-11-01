@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yabuku
 - 👀 I’m interested in pretty much everthing.
-- 🌱 I’m currently learning HTML.
-- 📫 Email me if you want to reach me out.
+- 🌱 I’m currently learning Python.
+- 📫 Don't reach me out.
 
 <!---
 Yabuku-xD/Yabuku-xD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
