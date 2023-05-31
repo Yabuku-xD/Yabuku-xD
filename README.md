@@ -10,7 +10,7 @@
 </p>
 <h3 align="left">🧑‍💻 Stats:</h3>
 <a href="https://github.com/Yabuku-xD">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabuku-xd&hide=html,css"/>
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=yabuku-xd&show_icons=true" alt="yabuku-xd" />
 </a>
 
 <a href="https://github.com/Yabuku-xD">
