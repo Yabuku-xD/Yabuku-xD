@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Yabuku-xD/Yabuku/blob/main/me.gif" width="100"/>
+  <img src="https://github.com/Yabuku-xD/Yabuku/blob/main/me.gif">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
