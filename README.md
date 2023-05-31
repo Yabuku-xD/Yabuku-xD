@@ -2,3 +2,4 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yabuku-xD&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yabuku-xD&repo=autofix)
