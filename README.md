@@ -3,8 +3,9 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/yabuku.vis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yabuku.vis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shyamalan-kannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyamalan-kannan" height="30" width="40" /></a>
-<a href="https://twitter.com/shyamalankannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyamalankannan" height="30" width="40" /></a>
+<a href="mailto:shyamalankannan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/yabuku.vis" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shyamalan-kannan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://twitter.com/shyamalankannan" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yabuku-xd&show_icons=true&locale=en" alt="yabuku-xd" /></p>
