@@ -9,7 +9,10 @@
 <a href="https://twitter.com/shyamalankannan" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 <h3 align="left">🧑‍💻 Stats:</h3>
-<div stylw="display: flex;">
-<p style="margin: 0.5rem"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yabuku-xd&show_icons=true&locale=en" alt="yabuku-xd" /></p>
-<p style="margin: 0.5rem"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yabuku-xd&show_icons=true&locale=en" alt="yabuku-xd" /></p>
-</div>
+<a href="https://github.com/Yabuku-xD">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabuku-xd&hide=html,css"/>
+</a>
+
+<a href="https://github.com/Yabuku-xD">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=yabuku-xd&show_icons=true&line_height=27&count_private=true" alt="Yabuku'sGitHub Stats" />
+</a>
