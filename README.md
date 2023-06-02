@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/Yabuku-xD/Yabuku/blob/main/me.gif" style="max-width: 100%; max-height: 100%; display: inline-block; object-fit: contain;">
 </div>
-
 <h3 align="left">⛓️ Connect with me:</h3>
 <p align="left">
 <a href="mailto:shyamalankannan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
