@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="left">👀 About me:</h3>
-<p>Hello, I'm Shyamalan, a highly skilled professional with expertise in Full Stack Development, UI/UX Design, and Video Editing. With a diverse skill set and a passion for creativity, I strive to deliver exceptional results in every project I undertake.</p>
+<p>Hello, I'm Shyamalan, as a machine learning engineer, I qualify myself as highly skilled professional with expertise in Full Stack Development, UI/UX Design, and Video Editing. With a diverse skill set and a passion for creativity, I strive to deliver exceptional results in every project I undertake.</p>
 <div id="header" align="center">
   <img src="https://github.com/Yabuku-xD/Yabuku-xD/blob/main/yabuku.webp" style="max-width: 100%; max-height: 100%; display: inline-block; object-fit: contain;">
 </div>
