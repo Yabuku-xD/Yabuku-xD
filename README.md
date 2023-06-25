@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="left">👀 About me:</h3>
-<p>Shyamalan: The Machine Learning Maestro! A dynamic professional skilled in Full Stack Development, UI/UX Design, and Video Editing. With a creative flair and unwavering dedication, I bring a touch of magic to every project, crafting extraordinary outcomes that captivate and inspire. Let's create brilliance together!</p>
+<p>I'll just call myself as The Machine Learning Maestro! A dynamic professional skilled in Full Stack Development, UI/UX Design, and Video Editing. With a creative flair and unwavering dedication, I bring a touch of magic to every project, crafting extraordinary outcomes that captivate and inspire. Let's create brilliance together!</p>
 <div id="header" align="center">
   <img src="https://github.com/Yabuku-xD/Yabuku-xD/blob/main/yabuku.webp" style="max-width: 100%; max-height: 100%; display: inline-block; object-fit: contain;">
 </div>
