@@ -5,7 +5,7 @@
 <h3 align="left">👀 About me:</h3>
 <p>Experienced Machine Learning Engineer skilled in Full Stack Development, UI/UX Design, and Video Editing. Passionate about crafting captivating projects that inspire. Let's create brilliance together! 🚀</p>
 <div id="header" align="center">
-  <img src="https://github.com/Yabuku-xD/Yabuku-xD/blob/main/yabuku.webp" width="500" height="300" img align="right">
+  <img src="https://github.com/Yabuku-xD/Yabuku-xD/blob/main/yabuku.webp" img align="right">
 </div>
 
 <h3 align="left">⛓️ Connect with me:</h3>
