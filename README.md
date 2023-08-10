@@ -7,8 +7,8 @@
 <div id="header" align="center">
   <img src="https://github.com/Yabuku-xD/Yabuku-xD/blob/main/yabuku.webp" img align="right">
 </div>
-<br>
-<h3 align="left">⛓️ Connect with me:</h3>
+
+<h3 align="left"><br>⛓️ Connect with me:</h3>
 <p align="left">
 <a href="mailto:shyamalankannan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/_yabuku_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
