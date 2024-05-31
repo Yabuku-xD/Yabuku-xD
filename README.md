@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="left">👀 About me:</h3>
-<p>Experienced Machine Learning Engineer skilled in Full Stack Development, UI/UX Design, and Video Editing. Passionate about crafting captivating projects that inspire. Let's create brilliance together! 🚀</p>
+<p>On a mission to crack the code hidden within data. I love the thrill of the hunt – uncovering those hidden gems of insight and using them to build real-world solutions that make a difference. If you're looking to push the boundaries of what's possible with data, let's connect!</p>
 <div id="header" align="center">
   <img src="https://github.com/Yabuku-xD/Yabuku-xD/blob/main/yabuku.webp" img align="right">
 </div>
