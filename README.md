@@ -48,3 +48,4 @@
 <a href="https://github.com/Yabuku-xD">
   <img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api?username=yabuku-xd&show_icons=true&line_height=27&count_private=true" alt="Yabuku'sGitHub Stats" />
 </a>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
