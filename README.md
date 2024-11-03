@@ -1,6 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://yabuku-xd.github.io/">Yabuku</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br>
+<h1><b>Heyya, I'm </b><a href="https://yabuku-xd.github.io/">Yabuku</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 ###### 👀 About me:
 <p> On a mission to crack the code hidden within data. I love the thrill of the hunt – uncovering those hidden gems of insight and using them to build real-world solutions that make a difference. If you're looking to push the boundaries of what's possible with data, let's connect! </p>
