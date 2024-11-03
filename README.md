@@ -41,11 +41,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ###### 🧑‍💻 Stats:
-<a href="https://github.com/Yabuku-xD">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=yabuku-xd&show_icons=true" alt="yabuku-xd" />
-</a>
+<div align="center">
+| <a href="https://github.com/Yabuku-xD"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=yabuku-xd&show_icons=true" alt="yabuku-xd" /></a> | <a href="https://github.com/Yabuku-xD"><img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api?username=yabuku-xd&show_icons=true&line_height=27&count_private=true" alt="Yabuku's GitHub Stats" /></a> |
+</div>
 
-<a href="https://github.com/Yabuku-xD">
-  <img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api?username=yabuku-xd&show_icons=true&line_height=27&count_private=true" alt="Yabuku'sGitHub Stats" />
-</a>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
