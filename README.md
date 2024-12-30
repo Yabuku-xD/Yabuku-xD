@@ -42,7 +42,7 @@
 
 ###### 🧑‍💻 Stats:
 <div align="center">
-<a href="https://github.com/Yabuku-xD"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=yabuku-xd&show_icons=true&layout=compact" alt="yabuku-xd" height="206" width="35%" /></a> | <a href="https://github.com/Yabuku-xD"><img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api?username=yabuku-xd&show_icons=true&line_height=27&count_private=true" width="45%" alt="Yabuku's GitHub Stats" /></a> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yabuku-xD&mode=weekly" alt="streak" /></a>
+<a href="https://github.com/Yabuku-xD"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=yabuku-xd&show_icons=true&layout=compact" alt="yabuku-xd" height="206" width="37%" /></a> | <a href="https://github.com/Yabuku-xD"><img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api?username=yabuku-xd&show_icons=true&line_height=27&count_private=true" width="45%" alt="Yabuku's GitHub Stats" /></a> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yabuku-xD&mode=weekly" alt="streak" /></a>
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
