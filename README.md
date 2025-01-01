@@ -2,7 +2,9 @@
 <h1><b>Heyya, I'm </b><a href="https://yabuku-xd.github.io/">Yabuku</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 ###### 👀 About me:
-<p> On a mission to crack the code hidden within data. I love the thrill of the hunt – uncovering those hidden gems of insight and using them to build real-world solutions that make a difference. If you're looking to push the boundaries of what's possible with data, let's connect! </p>
+<p> On a mission to crack the code hidden within data, I thrive as both a data scientist and a quantitative researcher. I love the thrill of the hunt – uncovering those hidden gems of insight and using them to build real-world solutions that make a difference.
+
+In short, I'm passionate about using data to push the boundaries of what's possible. If you're looking for someone who can bridge the gap between technical expertise and analytical storytelling, let's connect </p>
 <div id="header" align="center">
   <img src="https://github.com/Yabuku-xD/Yabuku-xD/blob/main/yabuku.webp" img align="right">
 </div>
