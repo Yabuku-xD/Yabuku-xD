@@ -42,9 +42,4 @@ In short, I'm passionate about using data to push the boundaries of what's possi
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-###### 🧑‍💻 Stats:
-<div align="center">
-<a href="https://github.com/Yabuku-xD"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=yabuku-xd&show_icons=true&layout=compact" alt="yabuku-xd" height="206" width="36%" /></a> | <a href="https://github.com/Yabuku-xD"><img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api?username=yabuku-xd&show_icons=true&line_height=27&count_private=true" width="45%" alt="Yabuku's GitHub Stats" /></a> <a href="https://github.com/Yabuku-xD"><img src="https://streak-stats.demolab.com?user=Yabuku-xD&mode=weekly" alt="streak" /></a>
-</div>
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
