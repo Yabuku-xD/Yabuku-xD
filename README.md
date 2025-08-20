@@ -12,9 +12,7 @@ I turn messy, siloed data into clear, decision‑ready insights. As a <b>data an
 ###### ⛓️ Connect with me:
 <p align="left">
 <a href="mailto:shyamalankannan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_yabuku_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/shyamalan-kannan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://twitter.com/shyamalankannan" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 
 ###### 📊 Core analytics stack:
