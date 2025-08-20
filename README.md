@@ -10,7 +10,7 @@ I turn messy, siloed data into clear, decision‑ready insights. As a <b>data an
 </div>
 
 ###### ⛓️ Connect with me:
-<p align="left">
+<p align="center">
 <a href="mailto:shyamalankannan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/shyamalan-kannan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </p>
