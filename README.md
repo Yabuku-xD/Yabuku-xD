@@ -1,10 +1,11 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hey, I'm </b><a href="https://yabuku-xd.github.io/">Yabuku</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hey, I'm </b><a href="https://yabuku-xd.github.io/">Yabuku</a> 👋</h1>
 
 ###### 👀 About me:
 <p>
-I turn messy, siloed data into clear, decision‑ready insights. As a <b>data analyst</b>, I specialize in SQL‑first analytics, BI dashboards, and Python‑based data wrangling. I enjoy designing trustworthy metrics, building automated reports, and telling crisp stories that move teams to action.
+Data Scientist with a Master's in Computer Science (GPA 3.9) and hands-on experience in product analytics, predictive modeling, and cloud-based data pipelines. Delivered $2.1M in cost savings through predictive maintenance models and uncovered market volatility patterns informing $30K investment strategies. Skilled in SQL, Python, AWS, Tableau, and statistical forecasting—transforming complex datasets into strategic insights that drive business decisions.
 </p>
+
 <div id="header" align="center">
   <img src="https://github.com/Yabuku-xD/Yabuku-xD/blob/main/yabuku.webp" img align="right">
 </div>
@@ -13,33 +14,69 @@ I turn messy, siloed data into clear, decision‑ready insights. As a <b>data an
 <p align="center">
 <a href="mailto:shyamalankannan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/shyamalan-kannan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://github.com/Yabuku-xD" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
 
-###### 📊 Core analytics stack:
+###### 💼 Experience:
+**Quantitative Research Analyst Intern** @ Finkey Consultancy Ltd (Jul 2023 - Oct 2023)
+- Analyzed 50K+ market records using Python/Pandas/SQL, identifying volatility patterns that informed risk assessment decisions
+- Built time-series forecasts (ARIMA) and interactive Plotly dashboards that influenced $30K in investment decisions
+- Delivered quantitative insights using Python, Jupyter Notebooks, and PostgreSQL for portfolio management
+
+###### 🚀 Featured Projects:
+
+**[Sentinel](https://github.com/Yabuku-xD/sentinel)** - AI Trading Engine with NLP Sentiment Analysis
+- Engineered hybrid AI trading engine integrating FinBERT NLP and River for real-time market sentiment analysis
+- Built event-driven platform with Python Asyncio & Docker, enforcing 2% equity risk limits with automated Stop-Loss/Take-Profit
+- Designed high-fidelity backtesting simulator processing 25+ news vectors per tick to validate strategy performance
+
+**[Operation Nightfall](https://github.com/Yabuku-xD/operation-nightfall)** - Predictive Maintenance Pipeline
+- Engineered end-to-end ML pipeline using Python & Scikit-Learn to predict industrial machine failures from IoT sensor data
+- Developed custom financial decision model identifying $2.1M in potential net savings with 155% ROI
+- Architected SQL-based data ingestion workflow and automated ROI reporting via Tableau dashboards
+
+###### 📊 Technical Skills:
+
+**Languages & Tools:**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-###### 🧰 Python libraries:
+**Data Science & ML:**
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/statsmodels-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+**Visualization:**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Plotly](https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-###### 🧪 What I do:
-- Build interactive, refreshable dashboards in <b>Power BI</b> with clean data models and DAX measures
-- Write performant <b>SQL</b> (CTEs, window functions) for analytics, feature stores, and ad‑hoc deep dives
-- Clean, reshape, and validate datasets with <b>pandas</b>; document assumptions and data tests
-- Run statistical analyses and A/B tests; communicate results with clear visuals and narratives
-- Automate recurring analysis with notebooks and scheduled scripts
+**Cloud & Databases:**
 
-###### 🔧 Tooling:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-29B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+###### 🎓 Education:
+**Master of Science in Computer Science** - Seattle University (Sep 2024 - Mar 2026) | GPA: 3.9
+- Relevant Coursework: Advanced ML, Time Series Analysis, Big Data Analytics, Cloud Computing
+
+**Bachelor of Technology in Computer Science** - Presidency University (Mar 2020 - Jun 2024) | GPA: 3.3
+- Specialization: Artificial Intelligence and Machine Learning
+- Published research: "Deep Learning-Based Tomato Ripeness Detection: A ResNet-152 Approach" (IJSRST, 2024)
+- 2nd Place, REVA University Hackathon (Nov 2021)
+
+###### 📜 Certifications:
+- AWS Cloud Solutions Architect (Coursera/AWS, 2025)
+- Google Advanced Data Analytics (Coursera/Google, 2026)
+- IBM Data Science Professional (Coursera/IBM, 2026)
+- IBM AI Developer (Coursera/IBM, 2026)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
