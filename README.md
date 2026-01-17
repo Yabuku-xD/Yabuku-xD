@@ -14,26 +14,7 @@ Data Scientist with a Master's in Computer Science (GPA 3.9) and hands-on experi
 <p align="center">
 <a href="mailto:shyamalankannan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/shyamalan-kannan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://github.com/Yabuku-xD" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
-
-###### 💼 Experience:
-**Quantitative Research Analyst Intern** @ Finkey Consultancy Ltd (Jul 2023 - Oct 2023)
-- Analyzed 50K+ market records using Python/Pandas/SQL, identifying volatility patterns that informed risk assessment decisions
-- Built time-series forecasts (ARIMA) and interactive Plotly dashboards that influenced $30K in investment decisions
-- Delivered quantitative insights using Python, Jupyter Notebooks, and PostgreSQL for portfolio management
-
-###### 🚀 Featured Projects:
-
-**[Sentinel](https://github.com/Yabuku-xD/sentinel)** - AI Trading Engine with NLP Sentiment Analysis
-- Engineered hybrid AI trading engine integrating FinBERT NLP and River for real-time market sentiment analysis
-- Built event-driven platform with Python Asyncio & Docker, enforcing 2% equity risk limits with automated Stop-Loss/Take-Profit
-- Designed high-fidelity backtesting simulator processing 25+ news vectors per tick to validate strategy performance
-
-**[Operation Nightfall](https://github.com/Yabuku-xD/operation-nightfall)** - Predictive Maintenance Pipeline
-- Engineered end-to-end ML pipeline using Python & Scikit-Learn to predict industrial machine failures from IoT sensor data
-- Developed custom financial decision model identifying $2.1M in potential net savings with 155% ROI
-- Architected SQL-based data ingestion workflow and automated ROI reporting via Tableau dashboards
 
 ###### 📊 Technical Skills:
 
