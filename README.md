@@ -3,7 +3,9 @@
 
 ###### 👀 About me:
 <p>
-Data Scientist with a Master's in Computer Science (GPA 3.9) and hands-on experience in product analytics, predictive modeling, and cloud-based data pipelines. Delivered $2.1M in cost savings through predictive maintenance models and uncovered market volatility patterns informing $30K investment strategies. Skilled in SQL, Python, AWS, Tableau, and statistical forecasting—transforming complex datasets into strategic insights that drive business decisions.
+"Data! Data! Data! I can’t make bricks without clay." — The Adventures of the Copper Beeches by Arthur Conan Doyle
+
+Like the world’s most famous detective, I believe that without solid data, you cannot build a reliable solution. As a Data Analyst, my "clay" is raw information, and my "bricks" are the strategic insights that drive business growth.
 </p>
 
 <div id="header" align="center">
@@ -11,7 +13,7 @@ Data Scientist with a Master's in Computer Science (GPA 3.9) and hands-on experi
 </div>
 
 ###### ⛓️ Connect with me:
-<p align="center">
+<p align="left">
 <a href="mailto:shyamalankannan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/shyamalan-kannan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </p>
