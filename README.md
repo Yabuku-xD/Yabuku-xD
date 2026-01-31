@@ -1,11 +1,9 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hey, I'm </b><a href="https://yabuku-xd.github.io/">Yabuku</a> 👋</h1>
+<h1>Hey, I'm Shyamalan Kannan 👋</h1>
 
-###### 👀 About me:
+###### 👀 Something someone used to say:
 <p>
 "Data! Data! Data! I can’t make bricks without clay." — The Adventures of the Copper Beeches by Arthur Conan Doyle
-
-Like the world’s most famous detective, I believe that without solid data, you cannot build a reliable solution. As a Data Analyst, my "clay" is raw information, and my "bricks" are the strategic insights that drive business growth.
 </p>
 
 <div id="header" align="center">
@@ -53,6 +51,6 @@ Like the world’s most famous detective, I believe that without solid data, you
 - IBM Data Science Professional (Coursera/IBM, 2026)
 - IBM AI Developer (Coursera/IBM, 2026)
 
-<img src=">
+![Space Shooter](space-shooter.gif)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
