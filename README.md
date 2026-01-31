@@ -47,19 +47,12 @@ Like the world’s most famous detective, I believe that without solid data, you
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-###### 🎓 Education:
-**Master of Science in Computer Science** - Seattle University (Sep 2024 - Mar 2026) | GPA: 3.9
-- Relevant Coursework: Advanced ML, Time Series Analysis, Big Data Analytics, Cloud Computing
-
-**Bachelor of Technology in Computer Science** - Presidency University (Mar 2020 - Jun 2024) | GPA: 3.3
-- Specialization: Artificial Intelligence and Machine Learning
-- Published research: "Deep Learning-Based Tomato Ripeness Detection: A ResNet-152 Approach" (IJSRST, 2024)
-- 2nd Place, REVA University Hackathon (Nov 2021)
-
 ###### 📜 Certifications:
 - AWS Cloud Solutions Architect (Coursera/AWS, 2025)
 - Google Advanced Data Analytics (Coursera/Google, 2026)
 - IBM Data Science Professional (Coursera/IBM, 2026)
 - IBM AI Developer (Coursera/IBM, 2026)
+
+<img src=">
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
