@@ -21,29 +21,44 @@
 **Languages & Tools:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Data Science & ML:**
+**Frameworks & Web:**
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/statsmodels-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/django%20rest%20framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Visualization:**
+**Cloud, Databases & DevOps:**
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker%20Compose](https://img.shields.io/badge/docker%20compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-37814A?style=for-the-badge)
 
-**Cloud & Databases:**
+**Engineering Practices & Security:**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-29B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![REST%20APIs](https://img.shields.io/badge/rest%20apis-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![CI%2FCD](https://img.shields.io/badge/ci%2Fcd-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![JWT](https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![SSL%2FTLS](https://img.shields.io/badge/ssl%2Ftls-2E7D32?style=for-the-badge)
+
+![OOD](https://img.shields.io/badge/ood-5C6BC0?style=for-the-badge)
+![MVC](https://img.shields.io/badge/mvc-5C6BC0?style=for-the-badge)
+
+**Data & Search (from projects/skills):**
+
+![FAISS](https://img.shields.io/badge/faiss-0467DF?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ###### 📜 Certifications:
 - AWS Cloud Solutions Architect (Coursera/AWS, 2025)
