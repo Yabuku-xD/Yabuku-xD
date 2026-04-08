@@ -12,23 +12,23 @@
 
 ## What I Build
 
-I build systems that give developers and decision-makers an edge — agents that reason, tools that scale, platforms that turn raw data into action. Recent work:
+Backend systems, developer tools, and cross-platform applications. Recent work:
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| <a href="https://github.com/Yabuku-xD/contextforge">contextforge</a> | Context engine for code agents — MCP, retrieval, impact analysis, session memory | Python · MCP · FAISS |
+| <a href="https://github.com/Yabuku-xD/contextforge">contextforge</a> | Context engine for code agents — MCP integration, retrieval pipelines, impact analysis | Python · MCP · FAISS |
 | <a href="https://github.com/Yabuku-xD/hermes-agent">hermes-agent</a> | Autonomous agent framework (contributor) | Python · Agents |
-| <a href="https://github.com/Yabuku-xD/Ghosted">Ghosted</a> | Visa-aware job intelligence — H-1B data, salary benchmarks, company comparison | Python · Streamlit |
-| <a href="https://github.com/Yabuku-xD/SoundunCloud">SoundunCloud</a> | Desktop companion for SoundCloud listeners | Rust · Tauri · React |
+| <a href="https://github.com/Yabuku-xD/Ghosted">Ghosted</a> | Job intelligence platform — structured data aggregation, REST API, interactive UI | Python · Streamlit |
+| <a href="https://github.com/Yabuku-xD/SoundunCloud">SoundunCloud</a> | Desktop SoundCloud client — native performance, React frontend, local state management | Rust · Tauri · React |
 
 ---
 
 ## How I Work
 
-- **Full-stack ML systems** — from data pipelines and model training to serving APIs and dashboards
-- **Agents & retrieval** — building memory-augmented systems that understand context at scale
-- **Rust + Python** — native performance where it matters, Python everywhere else
-- **Production-first** — shipped systems that model default risk, flag financial distress, and predict churn at real scale
+- **Backend-first** — design and build REST APIs, async workers, and data pipelines that hold up under load
+- **Cross-platform delivery** — ship to web, desktop, and cloud without rewriting core logic
+- **Rust + Python** — Rust for performance-critical paths, Python for everything that needs to move fast
+- **Production-minded** — I care about observability, error handling, and deploy pipelines, not just "it works locally"
 
 ---
 
