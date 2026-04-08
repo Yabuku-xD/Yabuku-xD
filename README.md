@@ -4,8 +4,8 @@
 <h1>Hey, I'm Shyamalan Kannan 👋</h1>
 
 <p>
-  <em>"Data! Data! Data! I can't make bricks without clay."</em><br>
-  — Sherlock Holmes, Arthur Conan Doyle
+  <em>"Programs must be written for people to read, and only incidentally for machines to execute."</em><br>
+  — Harold Abelson, SICP
 </p>
 
 ---
