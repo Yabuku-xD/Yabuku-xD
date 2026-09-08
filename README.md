@@ -1,56 +1,27 @@
-<!-- PROFILE START -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+# shyamalan kannan
 
-<h1>Hey, I'm Shyamalan Kannan 👋</h1>
+software engineer in seattle. i write rust, python, and typescript for backends and the local infra around coding agents.
 
-<p>
-  <em>"Programs must be written for people to read, and only incidentally for machines to execute."</em><br>
-  — Harold Abelson, SICP
-</p>
+currently on OPT, looking for software engineering roles. open to relocation.
 
----
+[shyamalankannan.com](https://shyamalankannan.com) · [resume](https://shyamalankannan.com/resume.pdf) · [email](mailto:shyamalankannan@gmail.com)
 
-## What I Build
+## some things i've built
 
-Backend systems, developer tools, and cross-platform applications. Recent work:
+- [morrow](https://github.com/Yabuku-xD/Morrow) — editorial storefront with local recommendations
+- [bread](https://github.com/Yabuku-xD/bread) — local rust layer that caps agent context
+- [ozark](https://ozark-iota.vercel.app/) — tests agents before they ship
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| <a href="https://github.com/Yabuku-xD/contextforge">contextforge</a> | Context engine for code agents — MCP integration, retrieval pipelines, impact analysis | Python · MCP · FAISS |
-| <a href="https://github.com/Yabuku-xD/hermes-agent">hermes-agent</a> | Autonomous agent framework (contributor) | Python · Agents |
-| <a href="https://github.com/Yabuku-xD/Ghosted">Ghosted</a> | Job intelligence platform — structured data aggregation, REST API, interactive UI | Python · Streamlit |
-| <a href="https://github.com/Yabuku-xD/SoundunCloud">SoundunCloud</a> | Desktop SoundCloud client — native performance, React frontend, local state management | Rust · Tauri · React |
+more on [projects](https://shyamalankannan.com/projects)
 
----
+## contributed to
 
-## How I Work
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) — nousresearch coding agent
+- [openchamber](https://github.com/openchamber/openchamber) — local chat workspace
+- [glass](https://github.com/Glass-HQ/Glass) — always-on desktop companion
 
-- **Backend-first** — design and build REST APIs, async workers, and data pipelines that hold up under load
-- **Cross-platform delivery** — ship to web, desktop, and cloud without rewriting core logic
-- **Rust + Python** — Rust for performance-critical paths, Python for everything that needs to move fast
-- **Production-minded** — I care about observability, error handling, and deploy pipelines, not just "it works locally"
+## contact
 
----
+email [shyamalankannan@gmail.com](mailto:shyamalankannan@gmail.com). seattle, on OPT, open to relocation.
 
-## Tech I Reach For
-
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/rust-B7410E?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/tauri-1C72?style=for-the-badge&logo=tauri&logoColor=FFC131" alt="Tauri">
-</p>
-
----
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<!-- PROFILE END -->
+[github](https://github.com/Yabuku-xD) · [linkedin](https://linkedin.com/in/shyamalan-kannan) · [x](https://x.com/shyamalankannan)
